@@ -4,4 +4,5 @@
   - DB 연동
 ## 구현 순서 - commit
   1. 빌드 및 연관관계 매핑
+  2. DB 연동과 Controller 개발
    
